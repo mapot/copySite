@@ -1,0 +1,27 @@
+.container { 
+  background: skyblue;
+  background-size: auto;
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+   
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+body {
+  background-image: url("image/cover.jpg");
+  background-size: cover;
+}
+
+.flex-body {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: aquamarine;
+}
+
